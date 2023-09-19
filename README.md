@@ -4,10 +4,10 @@ Welcome my ![Visitor Count](https://profile-counter.glitch.me/DylanJLi/count.svg
 ### Hi there!  👋
 ### I am Dylan Li
 
-- 🔭 I’m currently on a career gap transitioning towards data analyst.
-- ✨ I was a corporate accountant for more than 5 years.
-- 🌱 I’ve acquired my data analytics skills from General Assembly.
-- 👯 I’m looking to collaborate on any job opportunities.
+- 🔭 I’m a Data Analytist from Sydney, NSW!
+- ✨ I was a corporate accountant for more than 5 years
+- 🌱 I completed 450+ hrs of Data Analytics skills training at General Assembly
+- 👯 I’m looking to collaborate on any job opportunities
 - 📫 How to reach me: jiangli0116@gmail.com
 - ⚡ Hobbies: Music :musical_note: & Traveling :airplane:
 
